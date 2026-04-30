@@ -6,7 +6,8 @@ Uma experiência digital de alto padrão para uma marca fictícia de carros de l
 
 ## ✨ Preview
 
-![Preview do Projeto](./public/hero-car.png)
+<img width="1879" height="960" alt="image" src="https://github.com/user-attachments/assets/964f20a3-fbc2-4cec-b438-43264572b60a" />
+
 
 ---
 
